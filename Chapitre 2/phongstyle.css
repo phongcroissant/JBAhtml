@@ -1,0 +1,37 @@
+.premierligne {
+    background-color: 	#EEE8AA;
+    font-size: 20px;
+    text-align: center;
+    color:red;
+    font-family: Arial,sans-serif;
+}
+.deuxiemeligne {
+    font-family: Arial, sans-serif;
+    margin-top:20px;
+    color:purple;
+    text-align: center;
+    font-size: 16px;
+}
+.troisiemeligne {
+    font-family: Arial, sans-serif;
+    margin-bottom:20px;
+    color:purple;
+    text-align: center;
+    font-size: 16px;
+}
+.premierparagraphe {
+    font-size: 11px;
+    margin-top:25px;
+    text-indent : 20px;
+}
+.deuxiemeparagraphe {
+    margin-bottom:25px;
+    font-size: 11px;
+    text-indent : 20px;
+}
+.numerote {
+    font-family: Arial, sans-serif;
+    color:blue;
+    font-size: 15px;
+    strong
+}
