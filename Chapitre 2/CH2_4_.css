@@ -1,0 +1,30 @@
+body {
+    background: gray;
+    color:white;
+}
+.paragraphe1 {
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 10px dashed orange;
+    margin-bottom: 20px;
+}
+article {
+    background:url("pingouin.png") left no-repeat;
+    background-size: contain;
+}
+.paragraphe2 {
+    background-color: darkolivegreen;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 10px dashed orange;
+    margin-bottom: 20px;
+}
+.paragraphe3 {
+    background-color: rebeccapurple;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 10px dashed orange;
+    margin-bottom: 20px;
+
+}
