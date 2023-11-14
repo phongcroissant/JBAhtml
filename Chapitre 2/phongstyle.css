@@ -67,3 +67,11 @@
     margin-bottom: 20px;
     color:lightblue;
 }
+.fondfeuille {
+    background-image: url("feuilles.png");
+    background-attachment: fixed;
+}
+.fondpingouin {
+    background-image: url("pingouin.png");
+    background-attachment: scroll;
+}

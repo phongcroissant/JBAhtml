@@ -1,0 +1,18 @@
+body {
+    background-image: url("feuilles.png");
+    background-repeat: repeat;
+}
+.fondpingouin {
+    background: url("pingouin.png") center top fixed no-repeat;
+}
+.titreViolet {
+    font-size: 30px;
+    color:purple;
+}
+p {
+    color:white;
+}
+.titre1 {
+    font-size: 25px;
+    font-weight: bold;
+}
