@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+}
+.fondpingouin {
+    background: url("pingouin.png") center top fixed no-repeat;
+    background-size: cover ;
+}
+section {
+    background: indianred;
+    opacity: 0.70;
+}
+article {
+    background: red;
+    opacity: 0.80;
+}
+.pingouinfond {
+    background: url("pingouin.png") center top no-repeat;
+}
