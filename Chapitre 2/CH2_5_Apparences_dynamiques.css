@@ -1,0 +1,83 @@
+.premierligne {
+    background-color: 	#EEE8AA;
+    font-size: 20px;
+    text-align: center;
+    color:red;
+    font-family: Arial,sans-serif;
+}
+.deuxiemeligne {
+    font-family: Arial, sans-serif;
+    margin-top:20px;
+    color:purple;
+    text-align: center;
+    font-size: 16px;
+}
+.troisiemeligne {
+    font-family: Arial, sans-serif;
+    margin-bottom:20px;
+    color:purple;
+    text-align: center;
+    font-size: 16px;
+}
+.premierparagraphe {
+    font-size: 11px;
+    margin-top:25px;
+    text-indent : 20px;
+}
+.deuxiemeparagraphe {
+    margin-bottom:25px;
+    font-size: 11px;
+    text-indent : 20px;
+}
+.li{
+    font-family: Arial, sans-serif;
+    color:blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+.paragraphesuivi1 {
+    margin-right: 1cm;
+    font-family: "Times New Roman";
+    margin-left: 1cm;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.paragraphesuivi2 {
+    margin-right: 1cm;
+    margin-left: 1cm;
+    font-size: 12px;
+}
+.listenonnumerote {
+    font-size: 13px;
+    text-decoration: underline;
+}
+.paragraphelambda {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-indent: 12px;
+}
+.paragraphelambda2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-indent: 12px;
+    font-style: italic;
+}
+.paragraphe4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:lightblue;
+}
+.fondfeuille {
+    background-image: url("feuilles.png");
+    background-attachment: fixed;
+}
+.fondpingouin {
+    background-image: url("pingouin.png");
+    background-attachment: scroll;
+}
+.li:hover {
+    color:green;
+}
+.li:active {
+    text-decoration: underline;
+}
