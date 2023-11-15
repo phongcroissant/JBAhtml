@@ -1,0 +1,29 @@
+body {
+    background-image: url("FondNoir.jpg");
+    background-repeat: repeat;
+    color: white;
+}
+footer {
+    text-align: center;
+}
+header {
+    background: url("FondBlanc.jpg") fixed ;
+    text-align: right;
+    padding:40px;
+    color:black;
+    font-size: 40px;
+}
+header:hover {
+    color:black;
+}
+.titreProfil {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.texteProfil {
+    margin-left: 900px;
+    background:url("photoCV.jpg")left no-repeat;
+    background-size: contain;
+    padding:100px;
+}
